@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 @ComponentScan(basePackages={"com.My_project"})
 public class StudentAppConfig {
 
-	@Bean
+    @Bean
 	public InternalResourceViewResolver viewResolver() {
 		
 		InternalResourceViewResolver viewResolver= new InternalResourceViewResolver();

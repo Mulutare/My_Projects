@@ -18,7 +18,7 @@ public class StudentAppInitializer extends AbstractAnnotationConfigDispatcherSer
 
 	@Override
 	protected String[] getServletMappings() {
-	String[] mappings={"/"};
+	String[] mappings={"/showStudent"};
 		return mappings;
 	}
 

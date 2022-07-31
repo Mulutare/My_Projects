@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <i>student information is coming...</i>
+    <h1>student information is coming...</h1>
 </body>
 </html>
