@@ -16,7 +16,7 @@ public class StudentRowMapper implements RowMapper<Student> {
 		student.setName(rs.getString("name"));
 		student.setMobile(rs.getLong("mobile"));
 		student.setCountry(rs.getString("country"));
-		return null;
+		return student;
 	}
 
 }
