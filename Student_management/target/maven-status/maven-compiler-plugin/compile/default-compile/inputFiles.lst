@@ -1,7 +1,8 @@
-C:\Users\Administrator\git\repository\Student_management\src\main\java\com\My_project\sm\api\Student.java
-C:\Users\Administrator\git\repository\Student_management\src\main\java\com\My_project\sm\DAO\StudentDAO.java
-C:\Users\Administrator\git\repository\Student_management\src\main\java\com\My_project\sm\DAO\StudentDAOiml.java
-C:\Users\Administrator\git\repository\Student_management\src\main\java\com\My_project\sm\controllers\StudentController.java
-C:\Users\Administrator\git\repository\Student_management\src\main\java\com\My_project\sm\config\StudentAppInitializer.java
-C:\Users\Administrator\git\repository\Student_management\src\main\java\com\My_project\sm\config\StudentAppConfig.java
-C:\Users\Administrator\git\repository\Student_management\src\main\java\com\My_project\sm\rowmapper\StudentRowMapper.java
+C:\Users\Administrator\git\My_projects\My_projects\Student_management\src\main\java\com\My_project\sm\config\StudentAppInitializer.java
+C:\Users\Administrator\git\My_projects\My_projects\Student_management\src\main\java\com\My_project\sm\controllers\Autowired.java
+C:\Users\Administrator\git\My_projects\My_projects\Student_management\src\main\java\com\My_project\sm\controllers\StudentController.java
+C:\Users\Administrator\git\My_projects\My_projects\Student_management\src\main\java\com\My_project\sm\rowmapper\StudentRowMapper.java
+C:\Users\Administrator\git\My_projects\My_projects\Student_management\src\main\java\com\My_project\sm\api\Student.java
+C:\Users\Administrator\git\My_projects\My_projects\Student_management\src\main\java\com\My_project\sm\DAO\StudentDAO.java
+C:\Users\Administrator\git\My_projects\My_projects\Student_management\src\main\java\com\My_project\sm\DAO\StudentDAOiml.java
+C:\Users\Administrator\git\My_projects\My_projects\Student_management\src\main\java\com\My_project\sm\config\StudentAppConfig.java
